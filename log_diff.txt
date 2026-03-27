@@ -1,0 +1,9 @@
+commit 6c9a910c882a610098ae1fe4058fd29fc9a1b1ed
+Author: 154593726 <ngkimling132@gmail.com>
+Date:   Fri Mar 27 12:47:11 2026 +0700
+
+    First commit
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..e69de29
